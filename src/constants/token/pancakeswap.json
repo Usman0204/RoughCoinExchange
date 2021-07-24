@@ -26,6 +26,13 @@
       "decimals": 18
     },
     {
+      "name": "RougeCoin",
+      "symbol": "XRGE",
+      "address": "0xEbC781670DA4D22Ff539a95b13C6A54c08517A19",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "name": "LP3 Token",
       "symbol": "LP3",
       "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
