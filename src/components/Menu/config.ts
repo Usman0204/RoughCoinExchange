@@ -98,11 +98,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://app.gitbook.com/@sweetswapfinance/s/sweetswap/',
+        href: 'https://rougecoin-blockchain.medium.com/',
       },
       {
         label: 'Blog',
-        href: 'https://medium.com/@SweetSwap',
+        href: 'https://rougecoin-blockchain.medium.com/',
       },
     ],
   },
