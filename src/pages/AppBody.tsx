@@ -7,6 +7,12 @@ export const BodyWrapper = styled(Card)`
   max-width: 436px;
   width: 100%;
   z-index: 5;
+  border: 3px solid transparent;
+  border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+  border-image-slice: 30%;
+  border-radius:16px;
+
+ 
 `
 
 /**
