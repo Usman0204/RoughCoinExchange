@@ -121,7 +121,7 @@ export default function RemoveLiquidity({
       { name: 'verifyingContract', type: 'address' },
     ]
     const domain = {
-      name: 'Rough Defi LP',
+      name: 'Rouge LP',
       version: '1',
       chainId,
       verifyingContract: pair.liquidityToken.address,
