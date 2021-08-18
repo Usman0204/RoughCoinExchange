@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: '',
+    href: 'https://farms.rougeswap.com/pools',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: '',
+    href: 'https://pools.rougeswap.com/pools',
   },
   // {
   //   label: 'Lottery',
